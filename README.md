@@ -14,7 +14,7 @@ fundamentals: API ingestion, data cleaning, data modelling and automation.
 |---|---|---|
 | Bank of Canada Valet API | USD/CAD exchange rate (`FXUSDCAD`) | Daily (business days) |
 | Bank of Canada Valet API | Target for the overnight rate (`V39079`) | Daily |
-| Statistics Canada Web Data Service | Consumer Price Index, unemployment rate | Monthly |
+| Statistics Canada Web Data Service | Consumer Price Index, unemployment rate, new housing price index | Monthly |
 
 ## Architecture
 

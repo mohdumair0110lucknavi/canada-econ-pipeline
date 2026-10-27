@@ -60,3 +60,5 @@ fetch_statcan_series(2062815, "unemployment_rate", 24)
 
 fetch_boc_series("FXUSDCAD", 30)
 fetch_boc_series("V39079", 30)
+
+fetch_statcan_series(111955442, "new_housing_price_index", 24)
