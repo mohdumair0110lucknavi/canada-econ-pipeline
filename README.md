@@ -14,7 +14,7 @@ fundamentals: API ingestion, data cleaning, data modelling and automation.
 |---|---|---|
 | Bank of Canada Valet API | USD/CAD exchange rate (`FXUSDCAD`) | Daily (business days) |
 | Bank of Canada Valet API | Target for the overnight rate (`V39079`) | Daily |
-| Statistics Canada Web Data Service | Consumer Price Index, unemployment rate | Monthly *(coming soon)* |
+| Statistics Canada Web Data Service | Consumer Price Index, unemployment rate | Monthly |
 
 ## Architecture
 
@@ -28,7 +28,7 @@ fundamentals: API ingestion, data cleaning, data modelling and automation.
 
 - [x] Project setup: Python virtual environment, Git, GitHub
 - [x] Bronze: ingest Bank of Canada series with a reusable function
-- [ ] Bronze: ingest Statistics Canada series
+- [x] Bronze: ingest Statistics Canada series
 - [ ] Silver: clean and validate data
 - [ ] Gold: build analysis-ready tables
 - [ ] Cloud: move the pipeline to Azure
