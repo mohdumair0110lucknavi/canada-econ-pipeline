@@ -58,3 +58,8 @@ fundamentals: API ingestion, data cleaning, data modelling and automation.
 4. Install packages: `pip install -r requirements.txt`
 5. Create the data folder: `mkdir data\bronze`
 6. Run the pipeline: `python src/ingest.py`
+
+##Author 
+
+**Mohammad Umair**
+Computer Engineering (Software) student at Toronot Metropolitan University 
